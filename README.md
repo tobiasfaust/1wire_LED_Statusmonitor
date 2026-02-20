@@ -13,5 +13,5 @@ Die Platine passt auf die "midi Box" im "Moritz Fuchs Elektronik" Shop: https://
 Die Version 2.6 mit ESP32-C3 wird folgendermassen konfiguriert:
 ![Konfiguration v2.6](config_v2.6.jpg)
 
-<a href="aufbau1_v2.6.jpg"><img src="aufbau1_v2.6.jpg" width="100" alt="aufgebaut v2.6"></a>
+<a href="aufbau1_v2.6.jpg"><img src="aufbau1_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
 
