@@ -16,4 +16,5 @@ Die Version 2.6 mit ESP32-C3 wird folgendermassen konfiguriert:
 <div style="display: flex; gap: 10px;">
     <a href="aufbau1_v2.6.jpg"><img src="aufbau1_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
     <a href="aufbau2_v2.6.jpg"><img src="aufbau2_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
+    <a href="gehaeuse_bohrung.jpg"><img src="gehaeuse_bohrung.jpg" width="200" alt="gehaeuse_bohrung.jpg"></a>
 </div>
