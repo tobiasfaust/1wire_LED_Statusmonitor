@@ -10,11 +10,11 @@ Die Platine passt auf die "midi Box" im "Moritz Fuchs Elektronik" Shop: https://
 
 
 ## Konfiguration
-Die Version 2.6 mit ESP32-C3 wird folgendermassen konfiguriert:
-![Konfiguration v2.6](config_v2.6.jpg)
+Die Version 2.6 mit ESP32-C3 wird bei Nutzung der ESP32_PumpControl Firmware wie folgendermassen konfiguriert:
+![Konfiguration v2.6](circuits/config_v2.6.jpg)
 
 <div style="display: flex; gap: 10px;">
-    <a href="aufbau1_v2.6.jpg"><img src="aufbau1_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
-    <a href="aufbau2_v2.6.jpg"><img src="aufbau2_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
-    <a href="gehaeuse_bohrung.jpg"><img src="gehaeuse_bohrung.jpg" width="200" alt="gehaeuse_bohrung.jpg"></a>
+    <a href="circuits/aufbau1_v2.6.jpg"><img src="circuits/aufbau1_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
+    <a href="circuits/aufbau2_v2.6.jpg"><img src="circuits/aufbau2_v2.6.jpg" width="200" alt="aufgebaut v2.6"></a>
+    <a href="circuits/gehaeuse_bohrung.jpg"><img src="circuits/gehaeuse_bohrung.jpg" width="200" alt="gehaeuse_bohrung.jpg"></a>
 </div>
